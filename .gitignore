@@ -2,3 +2,6 @@
 /archive
 sass
 .js~
+.sencha
+/touch
+/.sencha
